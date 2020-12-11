@@ -1,0 +1,1 @@
+ReportPortal.config.json holds the config params for RP.

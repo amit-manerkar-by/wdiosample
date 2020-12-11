@@ -1,0 +1,19 @@
+{
+    "reportPortalClientConfig": {
+        "token": "XXXXXXXXXX",
+        "endpoint": "XXXXXXXXXX",
+        "launch": "UI Automation Tests",
+        "project": "XXXXXXXXXX",
+        "debug": false,
+        "description": "UI Test",
+        "tags": [
+            "demo",
+            "RP",
+            "WDIO"
+        ]
+    },
+    "reportSeleniumCommands": false,
+    "seleniumCommandsLogLevel": "debug",
+    "parseTagsFromTestTitle": true,
+    "reporterSyncInterval": 10000
+}

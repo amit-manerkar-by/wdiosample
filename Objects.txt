@@ -1,0 +1,7 @@
+Click First Shipment
+browser.react$$('MTableBodyRow')[0].$('<input />').click()
+
+Customize Shipment
+.$('//*[@id="root"]/div/div[2]/div/div/div[2]/div[2]/div/div[1]/*[name()="svg"]')
+
+
